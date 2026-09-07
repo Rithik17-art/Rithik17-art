@@ -1,4 +1,8 @@
 ## Hi there 👋
+-I'm currently pursuing my B.E at RVCE bangalore(1st year[2026])
+-I'm currently learning c++ from yt
+-I'm shy enough to ask a senior for guidance.So if anyone pass by my profile,it would be a great help if you give me some tips
+-you can contact me through email-rithikag017@gmail.com. or IG-rithik_017
 
 <!--
 **Rithik17-art/Rithik17-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
